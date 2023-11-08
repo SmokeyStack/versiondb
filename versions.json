@@ -21,6 +21,11 @@
     },
     {
         "Type": "Release",
+        "UUID": "01c280b1-675d-486d-b22b-12bc9c732b22",
+        "Name": "1.20.41.02"
+    },
+    {
+        "Type": "Release",
         "UUID": "cf4bd0ca-bcac-4b31-b09b-7973c61643d1",
         "Name": "1.20.40.01"
     },
