@@ -20,6 +20,11 @@
         "Name": "1.21.10.20"
     },
     {
+        "Type": "Release",
+        "UUID": "21c7d413-83d5-45de-b8b2-e9e6f87fb5fe",
+        "Name": "1.21.0.03"
+    },
+    {
         "Type": "Preview",
         "UUID": "073caaaf-4480-49fe-903a-9a57d76c921f",
         "Name": "1.21.0.26"
