@@ -1,6 +1,11 @@
 [
     {
         "Type": "Preview",
+        "UUID": "ef4de330-2359-4ae2-af2d-6cf6279f6b60",
+        "Name": "1.21.50.25"
+    },
+    {
+        "Type": "Preview",
         "UUID": "db9faf0e-52c0-4600-979e-9d251784a217",
         "Name": "1.21.50.24"
     },
