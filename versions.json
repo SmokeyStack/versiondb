@@ -5,6 +5,11 @@
         "Name": "1.21.120.20"
     },
     {
+        "Type": "Release",
+        "UUID": "85aed8c1-14a5-4f3f-8a66-66e86c29e588",
+        "Name": "1.21.111.01"
+    },
+    {
         "Type": "Preview",
         "UUID": "a334dabf-51c3-405d-bbeb-48c1d86f4b67",
         "Name": "1.21.110.26"
@@ -33,6 +38,11 @@
         "Type": "Preview",
         "UUID": "c1312e5d-95e2-42bd-9ea4-abc75aa5c1f6",
         "Name": "1.21.110.20"
+    },
+    {
+        "Type": "Release",
+        "UUID": "50d3d01a-2146-49cf-a06e-f2343a1fc666",
+        "Name": "1.21.101.01"
     },
     {
         "Type": "Release",
